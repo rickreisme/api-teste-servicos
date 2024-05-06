@@ -3,16 +3,12 @@
       {
         "id": 1,
         "title": "Serviço 1",
-        "description": "Descrição breve do serviço 1",
-        "icon": "",
-        "link": ""
+        "description": "Descrição breve do serviço 1"
       },
       {
         "id": 2,
         "title": "Serviço 2",
-        "description": "Descrição breve do serviço 2",
-        "icon": "",
-        "link": ""
+        "description": "Descrição breve do serviço 2"
       }
     ]
   }
